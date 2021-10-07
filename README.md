@@ -1,47 +1,46 @@
-# Miki button
+# 鲨鱼按钮
 
-## Contributing
+## 贡献
 
-Please fork this project for modification, and after completing the modification, initiate a Pull Request in this project.
+请fork这个项目进行修改，修改完成后，在这个项目中发起一个Pull Request。
 
 ### 添加音声
 
-**Description**: All voice meta information is stored in [src/voices.json](src/voices.json). To add or modify these voices, you need to modify this file accordingly.
+**描述**: 所有语音元文件都存储在[src/voices.json 中](https://github.com/Drelf2018/nanami-button/blob/main/src/voices.json)。要添加或修改这些声音，您需要相应地修改此文件。
 
-Voice is always in mp3 format and stored in [public/voices](public/voices). The corresponding URL is `voices/`.
+语音始终为 mp3 格式并存储在[public/voices 中](https://github.com/Drelf2018/nanami-button/blob/main/public/voices)。对应的网址是`voices/`。
 
-For new voice, please use software such as MP3GainGUI for volume standardization. Currently the volume standardized value is 80.
+对于新的语音，请使用 MP3GainGUI 等软件进行音量标准化。目前体积标准化值为 80。
 
-Because this site uses a strong cache strategy, except for `index.html`, files with the same filename, even if modified, will **NEVER** be refreshed by the client. Therefore, the filename of the newly voice, whatever it is new or modified, **MUST** be different from any previous filename.
+由于本网站使用了强大的缓存策略，除了`index.html`，文件的文件名相同，即使修改，将**永远不会**被客户端刷新。因此，新语音的文件名，无论是新的还是修改过的，都**必须**与任何以前的文件名不同。
 
-If you are modifying voice, delete the original file after modification.
+如果是修改语音，修改后删除原文件。
 
 ## 本地开发环境
 
-This site is developed using Vue + jQuery + Bootstrap 3.
+本站使用 Vue + jQuery + Bootstrap 3 开发。
 
-To deploy a local development environment, first install the latest version of Node. Then follow these steps:
+要部署本地开发环境，请先安装最新版本的 Node。然后按照以下步骤操作：
 
-1. Clone the code.
+1. 克隆代码。
+2. 转到代码目录并运行`npm install`.
+3. 运行`npm run serve`。在代码修改过程中，这个本地开发服务器可以立即反映修改的结果。
+4. 要编译用于部署的文件，请运行`npm run build`，这将生成`dist`目录。本站完全静态，可以直接部署整个`dist`目录。
 
-2. Go to the code directory and run `npm install`.
+> 要将您的代码贡献给这个项目，您不必在本地编译。在开发服务器中测试通过并推送到Github后，可以直接向这个项目请求一个Pull Request。
 
-3. Run `npm run serve`. During the code modification process, this local development server can immediately reflect the results of the modification.
+## 许可
 
-4. To compile the files for deployment, run `npm run build`, which will generate the `dist` directory. This site is completely static, you can directly deploy the entire `dist` directory.
-
-> To contribute your code to this project, you don't have to compile locally. After passing the test in the development server and pushing it to Github, you can directly require a Pull Request to this project.
-
-## LICENCE
-
-Program: MIT
+项目: MIT
 
 
-## Special Thanks
+## 贴别感谢
 
 本项目基于 [aqua-button](https://github.com/zyzsdy/aqua-button).
 
 本项目基于 [Meamea button](https://github.com/zyzsdy/meamea-button).
+
+本项目基于 [Miki BUTTON](https://github.com/xuziang111/miki-button-src).
 
 ### 致Fork了本代码库的各位按钮站站长
 
