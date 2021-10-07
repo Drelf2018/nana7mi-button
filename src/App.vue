@@ -10,21 +10,39 @@
                     <a class="navbar-brand" href="/"><div>{{ $t("info.title") }}</div></a>
                 </div>
                 <div class="brand1">
-                    <a href="https://space.bilibili.com/477317922/" target="_blank"><img src="resources/bilibili.svg" title="B站链接" alt="B站链接" height="18"/></a>
+                    <a href="https://space.bilibili.com/434334701/" target="_blank"><img src="resources/bilibili.svg" title="B站链接" alt="B站链接" height="18"/> 七海Nana7mi</a>
                 </div>
                 <div class="brand1">
-                    请注意音量大小
+                    鲨歌：
+                    <a href="https://www.bilibili.com/video/BV1DK4y1g7zE/" target="_blank">无垠梦海</a>
                 </div>
                 <div class="brand1">
-                    <a href="https://www.bilibili.com/video/BV11D4y1d7wm/" target="_blank">点我听歌</a>
+                    <a href="https://www.bilibili.com/video/BV1vJ411B7ng/" target="_blank">偶像宣言</a>
                 </div>
                 <div class="brand1">
-                    <!-- 不留遗憾 -->
-                    <!-- 相信一切都会好起来 -->
+                    <a href="https://www.bilibili.com/video/BV1Ah411z75A/" target="_blank">冰火歌合战</a>
+                </div>
+                <div class="brand1">
+                    <a href="https://www.bilibili.com/video/BV1yf4y137XH/" target="_blank">我。</a>
+                </div>
+                <div class="brand1">
+                    <a href="https://www.bilibili.com/video/BV1hL4y187oW/" target="_blank">除了春天爱情和樱花</a>
+                </div>
+                <div class="brand1">
+                    <a href="https://www.bilibili.com/video/BV1G3411q7un/" target="_blank">花ざかりWeekend</a>
+                </div>
+                <div class="brand1">
+                    <a href="https://www.bilibili.com/video/BV1iL4y1Y7cR/" target="_blank">夏天的风</a>
+                </div>
+                <div class="brand1">
+                    <a href="https://www.bilibili.com/video//" target="_blank"></a>
+                </div>
+                <div class="brand1">
+                    <a href="https://www.bilibili.com/video//" target="_blank"></a>
                 </div>
                 <!-- <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="https://space.bilibili.com/477317922/" target="_blank"><img src="resources/bilibili.svg" height="18"/></a></li>
+                        <li><a href="https://space.bilibili.com/434334701/" target="_blank"><img src="resources/bilibili.svg" height="18"/></a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
@@ -41,32 +59,25 @@
         </nav>
         <div class="container-fluid main-content">
             <HomePage></HomePage>
-            <!-- <div class="container-fluid img-center" >
-                <img src="resources/yanhuo.gif">
-            </div>  -->
-            <!-- <div :class=xxx >
-                <img src="resources/mikid.png">
-            </div>  -->
             <div class="fixed-left" >
                 <img src="resources/mi.png">
             </div>  
-                        <!-- <div class="fixed-right" >
-                <img src="resources/tree.png">
-            </div> -->
+            <div class="fixed-right" >
+                <img src="resources/小人.gif">
+            </div>
         </div>
         <footer class="footer">
                 <div>
                     <div>{{$t("info.audioStaff")}}</div>
-                    <div>友情链接:<a href="https://www.mihiru.com" target="_blank">mihiru.com</a>&nbsp;
-                    <a href="https://mahiru-vr.github.io/" target="_blank">孟按钮</a> &nbsp;
-                    <a href="https://bbs.nga.cn/read.php?tid=23498962" target="_blank">NGA弥楼</a> &nbsp;
-                    <a href="https://bbs.nga.cn/read.php?tid=23130748" target="_blank">告一段落的病栋</a> &nbsp;
+                    <div>友情链接:
+                    <a href="https://www.supermikimiki.com/" target="_blank">弥按钮</a> &nbsp;
+                    <a href="https://tieba.baidu.com/f?kw=%E4%B8%83%E6%B5%B7nana7mi" target="_blank">海吧</a> &nbsp;
                     </div>
-                    <div>音频投稿:touhou@lolimy.cn github 或者弥四/魔球群丢群文件 只有时间点也行</div>
+                    <div>音频投稿: b站 <a href="https://space.bilibili.com/188888131" target="_blank">@脆鲨12138</a> 只有时间点也行</div>
                 </div>
                 <div>
-                    <div class="text-right"><a href="https://github.com/zyzsdy/aqua-button" target="_blank">原项目</a></div>
-                    <div class="text-right">本项目<a href="https://github.com/xuziang111/miki-button-src" target="_blank">{{$t("info.toGithub")}}</a></div>
+                    <div class="text-right"><a href="https://github.com/xuziang111/miki-button-src" target="_blank">原项目</a></div>
+                    <div class="text-right">本项目<a href="https://github.com/Drelf2018/nanami-button" target="_blank">{{$t("info.toGithub")}}</a></div>
                     <div class="text-right">{{$t("info.notOfficial")}}</div>
                 </div>
                 <!-- <div>Zyzsdy 2019-2020 <span style="color: rgba(0, 0, 0, 0.1)">Powered By Meowsound Idols</span></div> -->
@@ -77,7 +88,10 @@
 <style lang="scss">
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
 body{
-    background-color:#000;
+    //background: linear-gradient(45deg, #bee4e4, #a6d8da);    //让背景的渐变带有倾斜
+    //background-size:30px 30px;   //每一块小组成部分固定宽度和高度
+    background: repeating-linear-gradient(-45deg, #bee4e4, #a6d8da 60px); 
+    // background-color:#bee4e4;
 }
 .cate-header{
     color:#fff;
@@ -94,11 +108,12 @@ body{
 .fixed-right{
     position: fixed;
     z-index: -1;
-    top:10px;
+    top:60vh;
+    //bottom:20;
     left:0;
 }
 .fixed-right img{
-    height:100vh;
+    height:30vh;
 }
 .fixed-left img{
     // position: absolute;

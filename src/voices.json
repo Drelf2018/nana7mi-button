@@ -1,19 +1,169 @@
 {
     "voices": [
         {
-            "categoryName": "voice",
+            "categoryName": "root",
             "categoryDescription": {
-                "zh-CN": "测试语音"
+                "zh-CN": "未分类"
             },
             "voiceList": [
                 {
-                    "name": "起床起床",
-                    "path": "起床起床.mp3",
+                    "name": "尖叫小七海",
+                    "path": "尖叫小七海.mp3",
                     "description": {
-                        "zh-CN": "起床起床"
+                        "zh-CN": "尖叫小七海"
+                    }
+                },
+                {
+                    "name": "道歉之前先拔出来了啦",
+                    "path": "道歉之前先拔出来了啦.mp3",
+                    "description": {
+                        "zh-CN": "道歉之前先拔出来了啦"
                     }
                 }
-
+            ]
+        },
+        {
+            "categoryName": "好强的攻击性",
+            "categoryDescription": {
+                "zh-CN": "好强的攻击性"
+            },
+            "voiceList": [
+                {
+                    "name": "你在说你马呢",
+                    "path": "好强的攻击性\\你在说你马呢.mp3",
+                    "description": {
+                        "zh-CN": "你在说你马呢"
+                    }
+                },
+                {
+                    "name": "恶心死了 滚滚滚",
+                    "path": "好强的攻击性\\恶心死了 滚滚滚.mp3",
+                    "description": {
+                        "zh-CN": "恶心死了 滚滚滚"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "温柔小七海",
+            "categoryDescription": {
+                "zh-CN": "温柔小七海"
+            },
+            "voiceList": [
+                {
+                    "name": "喝水喝水喝水喝水",
+                    "path": "温柔小七海\\喝水喝水喝水喝水.wav",
+                    "description": {
+                        "zh-CN": "喝水喝水喝水喝水"
+                    }
+                },
+                {
+                    "name": "妈妈爱你哦",
+                    "path": "温柔小七海\\妈妈爱你哦.mp3",
+                    "description": {
+                        "zh-CN": "妈妈爱你哦"
+                    }
+                },
+                {
+                    "name": "起床起床起床起床",
+                    "path": "温柔小七海\\起床起床起床起床.mp3",
+                    "description": {
+                        "zh-CN": "起床起床起床起床"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "滑",
+            "categoryDescription": {
+                "zh-CN": "滑"
+            },
+            "voiceList": [
+                {
+                    "name": "不行了不行了",
+                    "path": "滑\\不行了不行了.mp3",
+                    "description": {
+                        "zh-CN": "不行了不行了"
+                    }
+                },
+                {
+                    "name": "哎呀 滑了",
+                    "path": "滑\\哎呀 滑了.mp3",
+                    "description": {
+                        "zh-CN": "哎呀 滑了"
+                    }
+                },
+                {
+                    "name": "啊啊啊",
+                    "path": "滑\\啊啊啊.mp3",
+                    "description": {
+                        "zh-CN": "啊啊啊"
+                    }
+                },
+                {
+                    "name": "太舒服了",
+                    "path": "滑\\太舒服了.mp3",
+                    "description": {
+                        "zh-CN": "太舒服了"
+                    }
+                },
+                {
+                    "name": "我不行了",
+                    "path": "滑\\我不行了.mp3",
+                    "description": {
+                        "zh-CN": "我不行了"
+                    }
+                },
+                {
+                    "name": "我害怕",
+                    "path": "滑\\我害怕.wav",
+                    "description": {
+                        "zh-CN": "我害怕"
+                    }
+                },
+                {
+                    "name": "我想要内个",
+                    "path": "滑\\我想要内个.mp3",
+                    "description": {
+                        "zh-CN": "我想要内个"
+                    }
+                },
+                {
+                    "name": "痒了 挠挠",
+                    "path": "滑\\痒了 挠挠.mp3",
+                    "description": {
+                        "zh-CN": "痒了 挠挠"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "语气词",
+            "categoryDescription": {
+                "zh-CN": "语气词"
+            },
+            "voiceList": [
+                {
+                    "name": "nyaho",
+                    "path": "语气词\\nyaho.mp3",
+                    "description": {
+                        "zh-CN": "nyaho"
+                    }
+                },
+                {
+                    "name": "呜哇",
+                    "path": "语气词\\呜哇.mp3",
+                    "description": {
+                        "zh-CN": "呜哇"
+                    }
+                },
+                {
+                    "name": "啊？这",
+                    "path": "语气词\\啊？这...呃.mp3",
+                    "description": {
+                        "zh-CN": "啊？这"
+                    }
+                }
             ]
         }
     ]
