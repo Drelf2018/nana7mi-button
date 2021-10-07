@@ -1,0 +1,20 @@
+{
+    "voices": [
+        {
+            "categoryName": "voice",
+            "categoryDescription": {
+                "zh-CN": "测试语音"
+            },
+            "voiceList": [
+                {
+                    "name": "起床起床",
+                    "path": "起床起床.mp3",
+                    "description": {
+                        "zh-CN": "起床起床"
+                    }
+                }
+
+            ]
+        }
+    ]
+}
