@@ -34,7 +34,7 @@
 项目: MIT
 
 
-## 贴别感谢
+## 特别感谢
 
 本项目基于 [aqua-button](https://github.com/zyzsdy/aqua-button).
 
@@ -48,5 +48,5 @@
 
 Aqua Button和Meamea Button由MeowSound Idols托管并运营，因此加入了上述标识。
 
-
+本项目中新增了 `file2json.py` 用于将新增的音频自动生成对应的 voices.json 配置文件
 

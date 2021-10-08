@@ -10,7 +10,7 @@
                     <a class="navbar-brand" href="/"><div>{{ $t("info.title") }}</div></a>
                 </div>
                 <div class="brand1">
-                    <a href="https://space.bilibili.com/434334701/" target="_blank"><img src="resources/bilibili.svg" title="B站链接" alt="B站链接" height="18"/> 七海Nana7mi</a>
+                    <a href="https://space.bilibili.com/434334701/" target="_blank"><img src="resources/bilibili.svg" title="七海Nana7mi" alt="七海Nana7mi" height="18"/></a>
                 </div>
                 <div class="brand1">
                     鲨歌：
@@ -20,25 +20,10 @@
                     <a href="https://www.bilibili.com/video/BV1vJ411B7ng/" target="_blank">偶像宣言</a>
                 </div>
                 <div class="brand1">
-                    <a href="https://www.bilibili.com/video/BV1Ah411z75A/" target="_blank">冰火歌合战</a>
+                    <a href="https://www.bilibili.com/video/BV1Ah411z75A/" target="_blank">冰火歌合</a>
                 </div>
                 <div class="brand1">
                     <a href="https://www.bilibili.com/video/BV1yf4y137XH/" target="_blank">我。</a>
-                </div>
-                <div class="brand1">
-                    <a href="https://www.bilibili.com/video/BV1hL4y187oW/" target="_blank">除了春天爱情和樱花</a>
-                </div>
-                <div class="brand1">
-                    <a href="https://www.bilibili.com/video/BV1G3411q7un/" target="_blank">花ざかりWeekend</a>
-                </div>
-                <div class="brand1">
-                    <a href="https://www.bilibili.com/video/BV1iL4y1Y7cR/" target="_blank">夏天的风</a>
-                </div>
-                <div class="brand1">
-                    <a href="https://www.bilibili.com/video//" target="_blank"></a>
-                </div>
-                <div class="brand1">
-                    <a href="https://www.bilibili.com/video//" target="_blank"></a>
                 </div>
                 <!-- <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
