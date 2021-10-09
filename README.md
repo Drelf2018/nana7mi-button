@@ -50,3 +50,5 @@ Aqua Button和Meamea Button由MeowSound Idols托管并运营，因此加入了�
 
 本项目中新增了 `file2json.py` 用于将新增的音频自动生成对应的 voices.json 配置文件
 
+本项目中新增了 `modifyVoice.py` 用于规范化新增的音频音量
+
