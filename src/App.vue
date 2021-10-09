@@ -19,9 +19,6 @@
                 <div class="brand1">
                     <a href="https://www.bilibili.com/video/BV1vJ411B7ng/" target="_blank">偶像宣言</a>
                 </div>
-                <div class="brand1">
-                    <a href="https://www.bilibili.com/video/BV1Ah411z75A/" target="_blank">冰火歌合</a>
-                </div>
                 <!-- <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li><a href="https://space.bilibili.com/434334701/" target="_blank"><img src="resources/bilibili.svg" height="18"/></a></li>

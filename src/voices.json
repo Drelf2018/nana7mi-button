@@ -23,6 +23,70 @@
             ]
         },
         {
+            "categoryName": "哎呀滑了",
+            "categoryDescription": {
+                "zh-CN": "哎呀滑了"
+            },
+            "voiceList": [
+                {
+                    "name": "不行了不行了",
+                    "path": "哎呀滑了\\不行了不行了.mp3",
+                    "description": {
+                        "zh-CN": "不行了不行了"
+                    }
+                },
+                {
+                    "name": "哎呀 滑了",
+                    "path": "哎呀滑了\\哎呀 滑了.mp3",
+                    "description": {
+                        "zh-CN": "哎呀 滑了"
+                    }
+                },
+                {
+                    "name": "啊啊啊",
+                    "path": "哎呀滑了\\啊啊啊.mp3",
+                    "description": {
+                        "zh-CN": "啊啊啊"
+                    }
+                },
+                {
+                    "name": "太舒服了",
+                    "path": "哎呀滑了\\太舒服了.mp3",
+                    "description": {
+                        "zh-CN": "太舒服了"
+                    }
+                },
+                {
+                    "name": "我不行了",
+                    "path": "哎呀滑了\\我不行了.mp3",
+                    "description": {
+                        "zh-CN": "我不行了"
+                    }
+                },
+                {
+                    "name": "我害怕",
+                    "path": "哎呀滑了\\我害怕.wav",
+                    "description": {
+                        "zh-CN": "我害怕"
+                    }
+                },
+                {
+                    "name": "我想要内个",
+                    "path": "哎呀滑了\\我想要内个.mp3",
+                    "description": {
+                        "zh-CN": "我想要内个"
+                    }
+                },
+                {
+                    "name": "痒了 挠挠",
+                    "path": "哎呀滑了\\痒了 挠挠.mp3",
+                    "description": {
+                        "zh-CN": "痒了 挠挠"
+                    }
+                }
+            ]
+        },
+        {
             "categoryName": "好强的攻击性",
             "categoryDescription": {
                 "zh-CN": "好强的攻击性"
@@ -69,70 +133,6 @@
                     "path": "温柔小七海\\起床起床起床起床.mp3",
                     "description": {
                         "zh-CN": "起床起床起床起床"
-                    }
-                }
-            ]
-        },
-        {
-            "categoryName": "滑",
-            "categoryDescription": {
-                "zh-CN": "滑"
-            },
-            "voiceList": [
-                {
-                    "name": "不行了不行了",
-                    "path": "滑\\不行了不行了.mp3",
-                    "description": {
-                        "zh-CN": "不行了不行了"
-                    }
-                },
-                {
-                    "name": "哎呀 滑了",
-                    "path": "滑\\哎呀 滑了.mp3",
-                    "description": {
-                        "zh-CN": "哎呀 滑了"
-                    }
-                },
-                {
-                    "name": "啊啊啊",
-                    "path": "滑\\啊啊啊.mp3",
-                    "description": {
-                        "zh-CN": "啊啊啊"
-                    }
-                },
-                {
-                    "name": "太舒服了",
-                    "path": "滑\\太舒服了.mp3",
-                    "description": {
-                        "zh-CN": "太舒服了"
-                    }
-                },
-                {
-                    "name": "我不行了",
-                    "path": "滑\\我不行了.mp3",
-                    "description": {
-                        "zh-CN": "我不行了"
-                    }
-                },
-                {
-                    "name": "我害怕",
-                    "path": "滑\\我害怕.wav",
-                    "description": {
-                        "zh-CN": "我害怕"
-                    }
-                },
-                {
-                    "name": "我想要内个",
-                    "path": "滑\\我想要内个.mp3",
-                    "description": {
-                        "zh-CN": "我想要内个"
-                    }
-                },
-                {
-                    "name": "痒了 挠挠",
-                    "path": "滑\\痒了 挠挠.mp3",
-                    "description": {
-                        "zh-CN": "痒了 挠挠"
                     }
                 }
             ]
