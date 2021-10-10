@@ -131,6 +131,28 @@
             ]
         },
         {
+            "categoryName": "联动",
+            "categoryDescription": {
+                "zh-CN": "联动"
+            },
+            "voiceList": [
+                {
+                    "name": "把瞳子姐拿下",
+                    "path": "联动\\把瞳子姐拿下.mp3",
+                    "description": {
+                        "zh-CN": "把瞳子姐拿下"
+                    }
+                },
+                {
+                    "name": "这下被星瞳暗算了",
+                    "path": "联动\\这下被星瞳暗算了.mp3",
+                    "description": {
+                        "zh-CN": "这下被星瞳暗算了"
+                    }
+                }
+            ]
+        },
+        {
             "categoryName": "语气词",
             "categoryDescription": {
                 "zh-CN": "语气词"

@@ -13,6 +13,7 @@ def modifyAll():
             sound = pydub.AudioSegment.from_file(os.path.join(root, file), "mp3")
             normalized_sound = match_target_amplitude(sound, -25.0)
             normalized_sound.export(os.path.join(root, file), format="mp3")
+        break
 
 
 def view():
