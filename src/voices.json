@@ -5,22 +5,7 @@
             "categoryDescription": {
                 "zh-CN": "未分类"
             },
-            "voiceList": [
-                {
-                    "name": "尖叫小七海",
-                    "path": "尖叫小七海.mp3",
-                    "description": {
-                        "zh-CN": "尖叫小七海"
-                    }
-                },
-                {
-                    "name": "道歉之前先拔出来了啦",
-                    "path": "道歉之前先拔出来了啦.mp3",
-                    "description": {
-                        "zh-CN": "道歉之前先拔出来了啦"
-                    }
-                }
-            ]
+            "voiceList": []
         },
         {
             "categoryName": "哎呀滑了",
@@ -57,6 +42,13 @@
                     }
                 },
                 {
+                    "name": "尖叫小七海",
+                    "path": "哎呀滑了\\尖叫小七海.mp3",
+                    "description": {
+                        "zh-CN": "尖叫小七海"
+                    }
+                },
+                {
                     "name": "我不行了",
                     "path": "哎呀滑了\\我不行了.mp3",
                     "description": {
@@ -75,6 +67,13 @@
                     "path": "哎呀滑了\\我想要内个.mp3",
                     "description": {
                         "zh-CN": "我想要内个"
+                    }
+                },
+                {
+                    "name": "鲨叫 救命",
+                    "path": "哎呀滑了\\鲨叫 救命.mp3",
+                    "description": {
+                        "zh-CN": "鲨叫 救命"
                     }
                 }
             ]
@@ -105,6 +104,13 @@
                     "description": {
                         "zh-CN": "我Q到你妈嘴里"
                     }
+                },
+                {
+                    "name": "我急死了急了急了我好急急死了",
+                    "path": "好强的攻击性\\我急死了急了急了我好急急死了.mp3",
+                    "description": {
+                        "zh-CN": "我急死了急了急了我好急急死了"
+                    }
                 }
             ]
         },
@@ -126,6 +132,13 @@
                     "path": "温柔小七海\\起床起床起床起床.mp3",
                     "description": {
                         "zh-CN": "起床起床起床起床"
+                    }
+                },
+                {
+                    "name": "道歉之前先拔出来了啦",
+                    "path": "温柔小七海\\道歉之前先拔出来了啦.mp3",
+                    "description": {
+                        "zh-CN": "道歉之前先拔出来了啦"
                     }
                 }
             ]
