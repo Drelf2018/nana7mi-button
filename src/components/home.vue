@@ -32,7 +32,7 @@
 
 <style lang="scss" scoped>
 .cate-header{
-    background-color: rgba(91,74,108, 1);
+    background-color: rgba(91,74,108, 0.7);
     border: 1px solid rgba(0, 0, 0, 0.5);
     border-radius: 10px;
     text-align: center;
