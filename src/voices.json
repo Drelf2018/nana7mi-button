@@ -1,13 +1,6 @@
 {
     "voices": [
         {
-            "categoryName": "root",
-            "categoryDescription": {
-                "zh-CN": "未分类"
-            },
-            "voiceList": []
-        },
-        {
             "categoryName": "哎呀滑了",
             "categoryDescription": {
                 "zh-CN": "哎呀滑了"

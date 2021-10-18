@@ -30,7 +30,8 @@ path = './public/voices'
 
 for root, folders, files in os.walk(path):
     break
-data['voices'].append(func('root', files))
+if files:
+    data['voices'].append(func('root', files))
 
 for folder in folders:
     for root, fds, fes in os.walk(os.path.join(path, folder)):
