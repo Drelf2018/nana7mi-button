@@ -1,5 +1,6 @@
 import os
 import json
+cnname = {}
 
 
 def func(name, vlist):
@@ -20,23 +21,29 @@ def func(name, vlist):
     }
 
 
-data = {
-    "voices": []
-}
-cnname = {
-    'root': '未分类',
-}
-path = './public/voices'
+def run():
+    data = {
+        "voices": []
+    }
+    global cnname
+    cnname = {
+        'root': '未分类',
+    }
+    path = './public/voices'
 
-for root, folders, files in os.walk(path):
-    break
-if files:
-    data['voices'].append(func('root', files))
-
-for folder in folders:
-    for root, fds, fes in os.walk(os.path.join(path, folder)):
+    for root, folders, files in os.walk(path):
         break
-    data['voices'].append(func(folder, fes))
+    if files:
+        data['voices'].append(func('root', files))
 
-with open('./src/voices.json', 'w', encoding='utf-8') as f:
-    f.write(json.dumps(data, indent=4, ensure_ascii=False))
+    for folder in folders:
+        for root, fds, fes in os.walk(os.path.join(path, folder)):
+            break
+        data['voices'].append(func(folder, fes))
+
+    with open('./src/voices.json', 'w', encoding='utf-8') as f:
+        f.write(json.dumps(data, indent=4, ensure_ascii=False))
+
+
+if __name__ == '__main__':
+    run()
