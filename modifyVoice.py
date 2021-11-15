@@ -27,5 +27,5 @@ def view():
 
 modifyAll()
 # view()
-file2json.run()
+# file2json.run()
 input('修改完成')
