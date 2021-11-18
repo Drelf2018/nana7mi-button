@@ -1,35 +1,6 @@
 {
     "voices": [
         {
-            "categoryName": "root",
-            "categoryDescription": {
-                "zh-CN": "未分类"
-            },
-            "voiceList": [
-                {
-                    "name": "我基尔梆硬",
-                    "path": "我基尔梆硬.mp3",
-                    "description": {
-                        "zh-CN": "我基尔梆硬"
-                    }
-                },
-                {
-                    "name": "捅到好里面",
-                    "path": "捅到好里面.mp3",
-                    "description": {
-                        "zh-CN": "捅到好里面"
-                    }
-                },
-                {
-                    "name": "超我",
-                    "path": "超我.mp3",
-                    "description": {
-                        "zh-CN": "超我"
-                    }
-                }
-            ]
-        },
-        {
             "categoryName": "哎呀滑了",
             "categoryDescription": {
                 "zh-CN": "哎呀滑了"
@@ -132,6 +103,35 @@
                     "path": "好强的攻击性\\我急死了急了急了我好急急死了.mp3",
                     "description": {
                         "zh-CN": "我急死了急了急了我好急急死了"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "新建文件夹",
+            "categoryDescription": {
+                "zh-CN": "新建文件夹"
+            },
+            "voiceList": [
+                {
+                    "name": "我基尔梆硬",
+                    "path": "新建文件夹\\我基尔梆硬.mp3",
+                    "description": {
+                        "zh-CN": "我基尔梆硬"
+                    }
+                },
+                {
+                    "name": "捅到好里面",
+                    "path": "新建文件夹\\捅到好里面.mp3",
+                    "description": {
+                        "zh-CN": "捅到好里面"
+                    }
+                },
+                {
+                    "name": "超我",
+                    "path": "新建文件夹\\超我.mp3",
+                    "description": {
+                        "zh-CN": "超我"
                     }
                 }
             ]
