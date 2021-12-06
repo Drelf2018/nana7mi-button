@@ -49,6 +49,13 @@
                     }
                 },
                 {
+                    "name": "我基尔梆硬",
+                    "path": "哎呀滑了\\我基尔梆硬.mp3",
+                    "description": {
+                        "zh-CN": "我基尔梆硬"
+                    }
+                },
+                {
                     "name": "我害怕",
                     "path": "哎呀滑了\\我害怕.wav",
                     "description": {
@@ -63,10 +70,24 @@
                     }
                 },
                 {
-                    "name": "鲨叫 救命",
-                    "path": "哎呀滑了\\鲨叫 救命.mp3",
+                    "name": "捅到好里面",
+                    "path": "哎呀滑了\\捅到好里面.mp3",
                     "description": {
-                        "zh-CN": "鲨叫 救命"
+                        "zh-CN": "捅到好里面"
+                    }
+                },
+                {
+                    "name": "救命",
+                    "path": "哎呀滑了\\救命.mp3",
+                    "description": {
+                        "zh-CN": "救命"
+                    }
+                },
+                {
+                    "name": "超我",
+                    "path": "哎呀滑了\\超我.mp3",
+                    "description": {
+                        "zh-CN": "超我"
                     }
                 }
             ]
@@ -108,35 +129,6 @@
             ]
         },
         {
-            "categoryName": "新建文件夹",
-            "categoryDescription": {
-                "zh-CN": "新建文件夹"
-            },
-            "voiceList": [
-                {
-                    "name": "我基尔梆硬",
-                    "path": "新建文件夹\\我基尔梆硬.mp3",
-                    "description": {
-                        "zh-CN": "我基尔梆硬"
-                    }
-                },
-                {
-                    "name": "捅到好里面",
-                    "path": "新建文件夹\\捅到好里面.mp3",
-                    "description": {
-                        "zh-CN": "捅到好里面"
-                    }
-                },
-                {
-                    "name": "超我",
-                    "path": "新建文件夹\\超我.mp3",
-                    "description": {
-                        "zh-CN": "超我"
-                    }
-                }
-            ]
-        },
-        {
             "categoryName": "温柔小七海",
             "categoryDescription": {
                 "zh-CN": "温柔小七海"
@@ -147,6 +139,13 @@
                     "path": "温柔小七海\\妈妈爱你哦.mp3",
                     "description": {
                         "zh-CN": "妈妈爱你哦"
+                    }
+                },
+                {
+                    "name": "我们润吧",
+                    "path": "温柔小七海\\我们润吧.mp3",
+                    "description": {
+                        "zh-CN": "我们润吧"
                     }
                 },
                 {
@@ -161,13 +160,6 @@
                     "path": "温柔小七海\\道歉之前先拔出来了啦.mp3",
                     "description": {
                         "zh-CN": "道歉之前先拔出来了啦"
-                    }
-                },
-                {
-                    "name": "我们润吧",
-                    "path": "温柔小七海\\我们润吧.mp3",
-                    "description": {
-                        "zh-CN": "我们润吧"
                     }
                 }
             ]
@@ -215,10 +207,10 @@
                     }
                 },
                 {
-                    "name": "啊？这",
-                    "path": "语气词\\啊？这...呃.mp3",
+                    "name": "啊？这？呃",
+                    "path": "语气词\\啊？这？呃.mp3",
                     "description": {
-                        "zh-CN": "啊？这"
+                        "zh-CN": "啊？这？呃"
                     }
                 }
             ]
