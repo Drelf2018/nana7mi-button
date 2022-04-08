@@ -1,6 +1,92 @@
 {
     "voices": [
         {
+            "categoryName": "劝诫",
+            "categoryDescription": {
+                "zh-CN": "劝诫"
+            },
+            "voiceList": [
+                {
+                    "name": "主播吃的饭都是大家给的",
+                    "path": "劝诫\\主播吃的饭都是大家给的.mp3",
+                    "description": {
+                        "zh-CN": "主播吃的饭都是大家给的"
+                    }
+                },
+                {
+                    "name": "嘿嘿 不客气",
+                    "path": "劝诫\\嘿嘿 不客气.mp3",
+                    "description": {
+                        "zh-CN": "嘿嘿 不客气"
+                    }
+                },
+                {
+                    "name": "平时吃点好的别给我打钱了啊",
+                    "path": "劝诫\\平时吃点好的别给我打钱了啊.mp3",
+                    "description": {
+                        "zh-CN": "平时吃点好的别给我打钱了啊"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "可爱小七海",
+            "categoryDescription": {
+                "zh-CN": "可爱小七海"
+            },
+            "voiceList": [
+                {
+                    "name": "二次元小姐",
+                    "path": "可爱小七海\\二次元小姐.mp3",
+                    "description": {
+                        "zh-CN": "二次元小姐"
+                    }
+                },
+                {
+                    "name": "什么什么不要乱说话",
+                    "path": "可爱小七海\\什么什么不要乱说话.mp3",
+                    "description": {
+                        "zh-CN": "什么什么不要乱说话"
+                    }
+                },
+                {
+                    "name": "怎么会有这样的人啊",
+                    "path": "可爱小七海\\怎么会有这样的人啊.mp3",
+                    "description": {
+                        "zh-CN": "怎么会有这样的人啊"
+                    }
+                },
+                {
+                    "name": "我又要丢人现眼了",
+                    "path": "可爱小七海\\我又要丢人现眼了.mp3",
+                    "description": {
+                        "zh-CN": "我又要丢人现眼了"
+                    }
+                },
+                {
+                    "name": "打起精神妈妈",
+                    "path": "可爱小七海\\打起精神妈妈.mp3",
+                    "description": {
+                        "zh-CN": "打起精神妈妈"
+                    }
+                },
+                {
+                    "name": "没有没有别别别",
+                    "path": "可爱小七海\\没有没有别别别.mp3",
+                    "description": {
+                        "zh-CN": "没有没有别别别"
+                    }
+                },
+                {
+                    "name": "然后然后",
+                    "path": "可爱小七海\\然后然后.mp3",
+                    "description": {
+                        "zh-CN": "然后然后"
+                    }
+                }
+            ]
+        },
+        {
             "categoryName": "哎呀滑了",
             "categoryDescription": {
                 "zh-CN": "哎呀滑了"
@@ -129,11 +215,223 @@
             ]
         },
         {
+            "categoryName": "小故事",
+            "categoryDescription": {
+                "zh-CN": "小故事"
+            },
+            "voiceList": [
+                {
+                    "name": "01",
+                    "path": "小故事\\01.哈欠.mp3",
+                    "description": {
+                        "zh-CN": "01"
+                    }
+                },
+                {
+                    "name": "02",
+                    "path": "小故事\\02.好想睡觉.mp3",
+                    "description": {
+                        "zh-CN": "02"
+                    }
+                },
+                {
+                    "name": "03",
+                    "path": "小故事\\03.好困都不知道说啥.mp3",
+                    "description": {
+                        "zh-CN": "03"
+                    }
+                },
+                {
+                    "name": "04",
+                    "path": "小故事\\04.不行呀.mp3",
+                    "description": {
+                        "zh-CN": "04"
+                    }
+                },
+                {
+                    "name": "05",
+                    "path": "小故事\\05.不用了.mp3",
+                    "description": {
+                        "zh-CN": "05"
+                    }
+                },
+                {
+                    "name": "06",
+                    "path": "小故事\\06.要不算了吧.mp3",
+                    "description": {
+                        "zh-CN": "06"
+                    }
+                },
+                {
+                    "name": "07",
+                    "path": "小故事\\07.睡了.mp3",
+                    "description": {
+                        "zh-CN": "07"
+                    }
+                },
+                {
+                    "name": "08",
+                    "path": "小故事\\08.什么东西.mp3",
+                    "description": {
+                        "zh-CN": "08"
+                    }
+                },
+                {
+                    "name": "09",
+                    "path": "小故事\\09.发生什么了.mp3",
+                    "description": {
+                        "zh-CN": "09"
+                    }
+                },
+                {
+                    "name": "10",
+                    "path": "小故事\\10.我要看.mp3",
+                    "description": {
+                        "zh-CN": "10"
+                    }
+                },
+                {
+                    "name": "11",
+                    "path": "小故事\\11.嫩大啊.mp3",
+                    "description": {
+                        "zh-CN": "11"
+                    }
+                },
+                {
+                    "name": "12",
+                    "path": "小故事\\12.不可能吧.mp3",
+                    "description": {
+                        "zh-CN": "12"
+                    }
+                },
+                {
+                    "name": "13",
+                    "path": "小故事\\13.哇塞恁牛哇.mp3",
+                    "description": {
+                        "zh-CN": "13"
+                    }
+                },
+                {
+                    "name": "14",
+                    "path": "小故事\\14.我真的怕.mp3",
+                    "description": {
+                        "zh-CN": "14"
+                    }
+                },
+                {
+                    "name": "15",
+                    "path": "小故事\\15.给我搞得好惶恐.mp3",
+                    "description": {
+                        "zh-CN": "15"
+                    }
+                },
+                {
+                    "name": "16",
+                    "path": "小故事\\16.反正很大.mp3",
+                    "description": {
+                        "zh-CN": "16"
+                    }
+                },
+                {
+                    "name": "17",
+                    "path": "小故事\\17.那我是喜欢.mp3",
+                    "description": {
+                        "zh-CN": "17"
+                    }
+                },
+                {
+                    "name": "18",
+                    "path": "小故事\\18.太搞笑啦你这个想法.mp3",
+                    "description": {
+                        "zh-CN": "18"
+                    }
+                },
+                {
+                    "name": "19",
+                    "path": "小故事\\19.处男思维.mp3",
+                    "description": {
+                        "zh-CN": "19"
+                    }
+                },
+                {
+                    "name": "20",
+                    "path": "小故事\\20.不是因为实在太搞笑了有点.mp3",
+                    "description": {
+                        "zh-CN": "20"
+                    }
+                },
+                {
+                    "name": "21",
+                    "path": "小故事\\21.倒数.mp3",
+                    "description": {
+                        "zh-CN": "21"
+                    }
+                },
+                {
+                    "name": "22",
+                    "path": "小故事\\22.哑了哑了.mp3",
+                    "description": {
+                        "zh-CN": "22"
+                    }
+                },
+                {
+                    "name": "23",
+                    "path": "小故事\\23.喉咙越来越哑了我.mp3",
+                    "description": {
+                        "zh-CN": "23"
+                    }
+                },
+                {
+                    "name": "24",
+                    "path": "小故事\\24.里面都是痰.mp3",
+                    "description": {
+                        "zh-CN": "24"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "星瞳",
+            "categoryDescription": {
+                "zh-CN": "星瞳"
+            },
+            "voiceList": [
+                {
+                    "name": "把瞳子姐拿下",
+                    "path": "星瞳\\把瞳子姐拿下.mp3",
+                    "description": {
+                        "zh-CN": "把瞳子姐拿下"
+                    }
+                },
+                {
+                    "name": "星瞳来敲门",
+                    "path": "星瞳\\星瞳来敲门.mp3",
+                    "description": {
+                        "zh-CN": "星瞳来敲门"
+                    }
+                },
+                {
+                    "name": "这下被星瞳暗算了",
+                    "path": "星瞳\\这下被星瞳暗算了.mp3",
+                    "description": {
+                        "zh-CN": "这下被星瞳暗算了"
+                    }
+                }
+            ]
+        },
+        {
             "categoryName": "温柔小七海",
             "categoryDescription": {
                 "zh-CN": "温柔小七海"
             },
             "voiceList": [
+                {
+                    "name": "也没啥",
+                    "path": "温柔小七海\\也没啥.mp3",
+                    "description": {
+                        "zh-CN": "也没啥"
+                    }
+                },
                 {
                     "name": "妈妈爱你哦",
                     "path": "温柔小七海\\妈妈爱你哦.mp3",
@@ -149,6 +447,20 @@
                     }
                 },
                 {
+                    "name": "祝你生日快乐",
+                    "path": "温柔小七海\\祝你生日快乐.mp3",
+                    "description": {
+                        "zh-CN": "祝你生日快乐"
+                    }
+                },
+                {
+                    "name": "算了算了",
+                    "path": "温柔小七海\\算了算了.mp3",
+                    "description": {
+                        "zh-CN": "算了算了"
+                    }
+                },
+                {
                     "name": "起床起床起床起床",
                     "path": "温柔小七海\\起床起床起床起床.mp3",
                     "description": {
@@ -160,28 +472,6 @@
                     "path": "温柔小七海\\道歉之前先拔出来了啦.mp3",
                     "description": {
                         "zh-CN": "道歉之前先拔出来了啦"
-                    }
-                }
-            ]
-        },
-        {
-            "categoryName": "联动",
-            "categoryDescription": {
-                "zh-CN": "联动"
-            },
-            "voiceList": [
-                {
-                    "name": "把瞳子姐拿下",
-                    "path": "联动\\把瞳子姐拿下.mp3",
-                    "description": {
-                        "zh-CN": "把瞳子姐拿下"
-                    }
-                },
-                {
-                    "name": "这下被星瞳暗算了",
-                    "path": "联动\\这下被星瞳暗算了.mp3",
-                    "description": {
-                        "zh-CN": "这下被星瞳暗算了"
                     }
                 }
             ]
@@ -207,10 +497,24 @@
                     }
                 },
                 {
+                    "name": "哇",
+                    "path": "语气词\\哇.mp3",
+                    "description": {
+                        "zh-CN": "哇"
+                    }
+                },
+                {
                     "name": "啊？这？呃",
                     "path": "语气词\\啊？这？呃.mp3",
                     "description": {
                         "zh-CN": "啊？这？呃"
+                    }
+                },
+                {
+                    "name": "嘿嘿",
+                    "path": "语气词\\嘿嘿.mp3",
+                    "description": {
+                        "zh-CN": "嘿嘿"
                     }
                 }
             ]
