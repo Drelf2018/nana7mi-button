@@ -56,7 +56,7 @@
                 </div>
                 <div>
                     <div class="text-right"><a href="https://github.com/xuziang111/miki-button-src" target="_blank">原项目</a></div>
-                    <div class="text-right">本项目<a href="https://github.com/Drelf2018/nanami-button" target="_blank">{{$t("info.toGithub")}}</a></div>
+                    <div class="text-right">本项目<a href="https://github.com/Drelf2018/nana7mi-button" target="_blank">{{$t("info.toGithub")}}</a></div>
                     <div class="text-right">{{$t("info.notOfficial")}}</div>
                 </div>
                 <!-- <div>Zyzsdy 2019-2020 <span style="color: rgba(0, 0, 0, 0.1)">Powered By Meowsound Idols</span></div> -->
